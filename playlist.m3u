@@ -1,1 +1,70 @@
 
+#EXTM3U
+#EXTINF:-1 tvg-logo="Jamuna_TV_লোগো.png" group-title="Bangladesh",Jamuna TV
+https://Jamuna_TV_স্ট্রিম_লিংক.m3u8
+
+#EXTINF:-1 tvg-logo="Somoy_TV_লোগো.png" group-title="Bangladesh",Somoy TV
+https://Somoy_TV_স্ট্রিম_লিংক.m3u8
+
+#EXTINF:-1 tvg-logo="Independent_TV_লোগো.png" group-title="Bangladesh",Independent TV
+https://Independent_TV_স্ট্রিম_লিংক.m3u8
+
+#EXTINF:-1 tvg-logo="ATN_News_লোগো.png" group-title="Bangladesh",ATN News
+https://ATN_News_স্ট্রিম_লিংক.m3u8
+
+#EXTINF:-1 tvg-logo="Ekattor_TV_লোগো.png" group-title="Bangladesh",Ekattor TV
+https://Ekattor_TV_স্ট্রিম_লিংক.m3u8
+
+#EXTINF:-1 tvg-logo="DBC_News_লোগো.png" group-title="Bangladesh",DBC News
+https://DBC_News_স্ট্রিম_লিংক.m3u8
+
+#EXTINF:-1 tvg-logo="Ekhon_TV_লোগো.png" group-title="Bangladesh",Ekhon TV
+https://Ekhon_TV_স্ট্রিম_লিংক.m3u8
+
+#EXTINF:-1 tvg-logo="Channel_24_লোগো.png" group-title="Bangladesh",Channel 24
+https://Channel_24_স্ট্রিম_লিংক.m3u8
+
+#EXTINF:-1 tvg-logo="BTV_লোগো.png" group-title="Bangladesh",BTV
+https://BTV_স্ট্রিম_লিংক.m3u8
+
+#EXTINF:-1 tvg-logo="BTV_Chattogram_লোগো.png" group-title="Bangladesh",BTV Chattogram
+https://BTV_Chattogram_স্ট্রিম_লিংক.m3u8
+
+#EXTINF:-1 tvg-logo="Channel_i_লোগো.png" group-title="Bangladesh",Channel i
+https://Channel_i_স্ট্রিম_লিংক.m3u8
+
+#EXTINF:-1 tvg-logo="NTV_লোগো.png" group-title="Bangladesh",NTV
+https://NTV_স্ট্রিম_লিংক.m3u8
+
+#EXTINF:-1 tvg-logo="RTV_লোগো.png" group-title="Bangladesh",RTV
+https://RTV_স্ট্রিম_লিংক.m3u8
+
+#EXTINF:-1 tvg-logo="Ekush_TV_লোগো.png" group-title="Bangladesh",Ekushey TV (ETV)
+https://Ekush_TV_স্ট্রিম_লিংক.m3u8
+
+#EXTINF:-1 tvg-logo="Bangla_Vision_লোগো.png" group-title="Bangladesh",Bangla Vision
+https://Bangla_Vision_স্ট্রিম_লিংক.m3u8
+
+#EXTINF:-1 tvg-logo="Boishakhi_TV_লোগো.png" group-title="Bangladesh",Boishakhi TV
+https://Boishakhi_TV_স্ট্রিম_লিংক.m3u8
+
+#EXTINF:-1 tvg-logo="Desh_TV_লোগো.png" group-title="Bangladesh",Desh TV
+https://Desh_TV_স্ট্রিম_লিংক.m3u8
+
+#EXTINF:-1 tvg-logo="DD_National_লোগো.png" group-title="India",DD National
+https://DD_National_স্ট্রিম_লিংক.m3u8
+
+#EXTINF:-1 tvg-logo="DD_News_লোগো.png" group-title="India",DD News
+https://DD_News_স্ট্রিম_লিংক.m3u8
+
+#EXTINF:-1 tvg-logo="DD_India_লোগো.png" group-title="India",DD India
+https://DD_India_স্ট্রিম_লিংক.m3u8
+
+#EXTINF:-1 tvg-logo="DD_Bangla_লোগো.png" group-title="India",DD Bangla
+https://DD_Bangla_স্ট্রিম_লিংক.m3u8
+
+#EXTINF:-1 tvg-logo="Aaj_Tak_লোগো.png" group-title="India",Aaj Tak
+https://Aaj_Tak_স্ট্রিম_লিংক.m3u8
+
+#EXTINF:-1 tvg-logo="ABP_Ananda_লোগো.png" group-title="India",ABP Ananda
+https://ABP_Ananda_স্ট্রিম_লিংক.m3u8
